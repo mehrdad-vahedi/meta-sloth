@@ -4,8 +4,14 @@
 int main() {
 
         std::cout<<"test"<<std::endl;
-        simple_test();
-        simple_test();
+
+        ChaoticMaps::Logistic eng;
+
+        for (int i=0 ; i<1000 ; i++) {
+                // std::cout<<unifrand()<<std::endl;
+                std::cout<<eng.next()<<std::endl;
+        }
+        std::cout<<std::endl;
 
         return 0;
 }

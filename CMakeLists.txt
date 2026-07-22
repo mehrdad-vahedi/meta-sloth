@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 set(SOURCES
     src/randomization/map.cpp
+    src/randomization/rand.cpp
 )
 
 add_library(meta_sloth STATIC ${SOURCES})

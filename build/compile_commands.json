@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/mehrdad/Projects/meta-sloth/build",
+  "command": "/usr/bin/g++  -I/home/mehrdad/Projects/meta-sloth/include -I/home/mehrdad/Projects/meta-sloth/src -g -std=gnu++17 -o CMakeFiles/meta_sloth.dir/src/randomization/map.cpp.o -c /home/mehrdad/Projects/meta-sloth/src/randomization/map.cpp",
+  "file": "/home/mehrdad/Projects/meta-sloth/src/randomization/map.cpp",
+  "output": "CMakeFiles/meta_sloth.dir/src/randomization/map.cpp.o"
+},
+{
+  "directory": "/home/mehrdad/Projects/meta-sloth/build",
+  "command": "/usr/bin/g++  -I/home/mehrdad/Projects/meta-sloth/include -g -std=gnu++17 -o CMakeFiles/sandbox.dir/sandbox.cpp.o -c /home/mehrdad/Projects/meta-sloth/sandbox.cpp",
+  "file": "/home/mehrdad/Projects/meta-sloth/sandbox.cpp",
+  "output": "CMakeFiles/sandbox.dir/sandbox.cpp.o"
+}
+]

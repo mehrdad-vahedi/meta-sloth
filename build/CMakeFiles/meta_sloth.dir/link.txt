@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmeta_sloth.a CMakeFiles/meta_sloth.dir/src/randomization/map.cpp.o
-/usr/bin/ranlib libmeta_sloth.a

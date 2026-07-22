@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/mehrdad/Projects/meta-sloth/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

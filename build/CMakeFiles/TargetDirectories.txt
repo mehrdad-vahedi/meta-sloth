@@ -1,4 +1,0 @@
-/home/mehrdad/Projects/meta-sloth/build/CMakeFiles/meta_sloth.dir
-/home/mehrdad/Projects/meta-sloth/build/CMakeFiles/sandbox.dir
-/home/mehrdad/Projects/meta-sloth/build/CMakeFiles/edit_cache.dir
-/home/mehrdad/Projects/meta-sloth/build/CMakeFiles/rebuild_cache.dir

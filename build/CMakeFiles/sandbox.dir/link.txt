@@ -1,1 +1,0 @@
-/usr/bin/g++ -g -Wl,--dependency-file=CMakeFiles/sandbox.dir/link.d CMakeFiles/sandbox.dir/sandbox.cpp.o -o sandbox  libmeta_sloth.a
